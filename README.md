@@ -1,6 +1,6 @@
 # Políticas de Privacidad - Noticias GG
 
-Este repositorio contiene las políticas de privacidad de **Noticias GG**, una aplicación desarrollada durante el [`**Reto de 15 APPs con APIs**`](https://github.com/felipesanchez-dev/15-Projects-APIs-Challenge).
+Este repositorio contiene las políticas de privacidad de **Noticias GG**, una aplicación desarrollada durante el [`Reto de 15 APPs con APIs`](https://github.com/felipesanchez-dev/15-Projects-APIs-Challenge).
 ## 📌 Acerca de Noticias GG
 
 **Noticias GG** es una aplicación diseñada para proporcionar noticias actualizadas sobre el mundo y la tecnología. Utiliza diversas APIs para ofrecer contenido relevante, asegurando una experiencia informativa y dinámica para los usuarios.
