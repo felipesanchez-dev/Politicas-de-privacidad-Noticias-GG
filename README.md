@@ -14,7 +14,7 @@ Las políticas de privacidad de **Noticias GG** están disponibles en este repos
 
 ## 📄 Acceso a las Políticas
 
-Puedes consultar las políticas de privacidad en el archivo [`politicas_de_privacidad.md`](./politicas_de_privacidad.md) dentro de este repositorio. O directamante en la APP Noticias GG en la seccion de *ajustes*
+Puedes consultar las políticas de privacidad en el archivo [`politicas_de_privacidad`](https://felipesanchez-dev.github.io/Politicas-de-privacidad-Noticias-GG/) dentro de este repositorio. O directamante en la APP Noticias GG en la seccion de *ajustes*
 
 ## 📬 Contacto
 
