@@ -20,4 +20,4 @@ Puedes consultar las políticas de privacidad en el archivo [`politicas_de_priva
 Si tienes preguntas o inquietudes sobre la privacidad de la aplicación, no dudes en contactarnos a través de [correo electrónico] o creando un **issue** en este repositorio.
 
 ---
-© 2024 Noticias GG. Todos los derechos reservados.
+© 2024 Noticias GG.
